@@ -1,11 +1,14 @@
 // ==UserScript==
 // @name         Kommutation
 // @namespace    http://tridactyl.xyz
-// @version      0.0.2
+// @version      0.0.3
 // @description  grab a gpx file off komoot - edit the route, reload the page, click the button
 // @author       bovine3dom
 // @match        https://www.komoot.com/*plan/tour/*
 // @grant        none
+// @downloadURL  https://raw.githubusercontent.com/bovine3dom/kommutation/master/kommutation.user.js
+// @updateURL  https://raw.githubusercontent.com/bovine3dom/kommutation/master/kommutation.user.js
+// @license      BSD-2
 // @run-at       document-end
 // ==/UserScript==
 
