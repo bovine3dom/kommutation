@@ -1,11 +1,10 @@
 // ==UserScript==
 // @name         Kommutation
-// @namespace    http://tampermonkey.net/
-// @version      2025-05-08
+// @namespace    http://tridactyl.xyz
+// @version      0.0.1
 // @description  grab a gpx file off komoot - edit the route, reload the page, click the button
 // @author       bovine3dom
 // @match        https://www.komoot.com/plan/tour/*
-// @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
 // @run-at       document-end
 // ==/UserScript==
